@@ -69,7 +69,7 @@
 * [develop](http://test.propersoft.cn/pep/develop/)，[持续发布](https://cloud.propersoft.cn/teamcities/viewType.html?buildTypeId=ProperEnterprise_PepCdDevelop_2)
 * [后台](http://test.propersoft.cn/pea/develop/)，[持续发布](https://cloud.propersoft.cn/teamcities/viewType.html?buildTypeId=ProperEnterprise_PeaCd)	
 
-##  treamline
+##  Streamline
 
 ### 正式环境
 
