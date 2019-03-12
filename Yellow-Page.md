@@ -1,8 +1,11 @@
+
 |内容|说明|版本|
 |:--|:--|:--|
 |PEP|平台。|20181129|
 |ICMP|掌上办公。|20181218|
+|XT|协同办公。|20190312|
 |IHOS|掌上就医。|20181218|
+
 
 ---
 
@@ -168,6 +171,14 @@
 |ykrm-server-dev正式环境|营口人民项目办公后台正式环境。||手动|
 
 ---
+
+## XT-产品
+
+### 功能测试环境
+
+* [home](http://192.168.1.122/home/)：[持续集成](https://cloud.propersoft.cn/tc-xt/viewType.html?buildTypeId=Xt25_25server_home)，手动部署
+* [uipadmin](http://192.168.1.122/uipadmin/)：[持续集成](https://cloud.propersoft.cn/tc-xt/viewType.html?buildTypeId=Xt25_25serverAdmin)，手动部署
+* [mobile-platform](http://192.168.1.122/mobile-platform/)：[持续集成](https://cloud.propersoft.cn/tc-xt/viewType.html?buildTypeId=Xt25_25serverMobilePlatform)，手动部署
 
 ## IHOS-产品
 
